@@ -1,0 +1,23 @@
+body {
+    background-image: url(./images/img1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#container{
+    display: grid;
+    place-items: center;
+}
+input{
+    padding:1rem 3rem;
+     background-color: white; 
+}
+
+button{
+    margin-top: 2rem;
+    padding: 20px;
+    background-color: white;
+}
+
+.show{
+    color: aliceblue;
+}
